@@ -2,7 +2,6 @@ node_modules/
 images/
 error*.log 
 folder/file.jpg
-readme.md
-test2.js
+readme.md 
 
 
