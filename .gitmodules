@@ -1,0 +1,3 @@
+[submodule "shopes"]
+	path = shopes
+	url = https://github.com/codeimprove0/shopes.git
